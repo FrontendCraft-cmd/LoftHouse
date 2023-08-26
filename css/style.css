@@ -339,6 +339,7 @@ h6 {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+  min-height: 100svh;
 }
 
 .main-page__container {
@@ -404,6 +405,7 @@ h6 {
   height: 100%;
   top: 0;
   left: 0;
+  min-height: 100lvh;
 }
 
 .main-page__image::before {
