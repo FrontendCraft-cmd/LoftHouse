@@ -1,2 +1,2 @@
 # LoftHouse
-GitHub Pages - https://nebeyi.github.io/LoftHouse/
+GitHub Pages - https://frontendcraft-cmd.github.io/LoftHouse/
